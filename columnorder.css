@@ -1,0 +1,16 @@
+.cbox{
+    border: 1px solid;
+}.adiv{
+    background-color: red;
+    height: 60px;
+}
+.bdiv{
+    height: 60px;
+    background-color: pink;
+}.cdiv{
+    height: 60px;
+    background-color:gray;
+}.ddiv{
+    height: 60px;
+    background-color: orange;
+}

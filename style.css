@@ -1,0 +1,37 @@
+/* .cbox{
+    border: 2px solid blue;
+
+} */
+.dbox{
+    border: 2px solid blue;
+    height: 100px;
+    background-color: blue;
+}
+.dbox1{
+    border: 2px solid;
+    height: 100px;
+    background-color: green;
+
+}
+.dbox2{
+    border: 2px solid;
+    height: 100px;
+    background-color: gray;
+
+}.dbox3{
+    border: 2px solid;
+    height: 100px;
+    background-color: yellow;
+
+}.dbox4{
+    border: 2px solid;
+    height: 100px;
+    background-color: pink;
+
+}
+.dbox1{
+    border: 2px solid;
+    height: 100px;
+    background-color: purple;
+
+}
